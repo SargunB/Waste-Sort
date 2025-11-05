@@ -1,0 +1,9 @@
+0 Paper
+1 Plastic
+2 Glass
+3 Metal
+4 Organic
+5 E-Waste
+6 Textile/Clothing
+7 Landfill
+8 Cardboard
